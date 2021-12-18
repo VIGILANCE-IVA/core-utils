@@ -6,6 +6,6 @@ setup(
     version='0.1.0',
     description='Core utils',
     author='Paul Jeremiah Mugaya',
-    install_requires=['numpy', 'opencv-contrib-python'],
+    install_requires=[],
     license='MIT',
 )
